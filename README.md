@@ -69,8 +69,8 @@ __Requirements__
 
 Run the following commands to build the war file and deploy it to the docker container. 
 ```
-git clone git@github.com:factionsecurity/faction.git
-cd faction
+git clone git@github.com:ZuhaibT/faction-MOXy.git
+cd faction-MOXy
 docker-compose up --build
 ```
 
